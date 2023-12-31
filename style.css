@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(320deg,#039BE5,#448AFF,#6A1B9A);
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 19px;
+}
+
+h2 {
+    font-style: initial;
+    font-size: 32px;
+    font-weight: 600;
+    color: black;
+}
+
+.form-label {
+    font-style: initial;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: left;
+    color: black;
+}
+
+.input-group-text {
+    border-style: groove;
+    border-color: darkblue;
+    border-radius: 7.5px;
+    color: black;
+    font-style: initial;
+    width: 40px;
+}
+
+.form-control {
+    border-style: groove;
+    border-color: darkblue;
+    border-radius: 7.5px;
+    color: black;
+    width: 40px;
+    font-style: initial;
+}
+
+.bi-person-fill-add {
+    color: black;
+}
+
+.bi-key-fill {
+    color: black;
+}
+
+.bi-box-arrow-in-right {
+    margin-right: 7.5px;
+}
+
+.btn-outline-dark {
+    border-style: groove;
+    border-color: black;
+    border-radius: 7.5px;
+    width: 100%;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.btn-outline-dark:hover {
+    border-style: groove;
+    border-color: black;
+    border-radius: 7.5px;
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(320deg, #4F4F4F, #262626, black);
+    color: white;
+    font-style: initial;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+}
+
+span {
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+    text-align: left;
+}

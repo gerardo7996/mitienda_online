@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(320deg, #039BE5, #448AAF, #6A1B9A);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar-expand-lg {
+    background-color: #262626;
+}
+
+.navbar-brand, span {
+    color: #00E5FF;
+    font-weight: 600;
+    text-align: left;
+}
+
+h4 {
+    font-style: initial;
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+.btn-outline-info {
+    border-style: groove;
+    border-color: #54B4D3;
+    border-radius: 7.5px;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: #54B4D3;
+    text-align: center;
+}
+
+.btn-outline-info:hover {
+    border-style: groove;
+    border-color: #54B4D3;
+    border-radius: 7.5px;
+    background: linear-gradient(320deg,#039BE5,#448AFF,#6A1B9A);
+    color: black;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-outline-danger {
+    border-style: groove;
+    border-color: #FF5252;
+    border-radius: 7.5px;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FF5252;
+    text-align: center;
+    margin-top: 7px;
+}
+
+.btn-outline-danger:hover {
+    border-style: groove;
+    border-color: #D81B60;
+    border-radius: 7px;
+    background: linear-gradient(320deg, #FF80AB,#F50057,#880E4F);
+    color: #FFFFFF;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+.bi-backspace {
+    margin-right: 7.5px;
+}
+
+.bi-share-fill {
+    margin-right: 7.5px;
+}
+
+.bi-trash-fill {
+    margin-right: 7.5px;
+}
+
+.icono-comentarios {
+    width: 205px;
+    margin-bottom: 25px;
+}
+
+.mt-3, h5 {
+    font-style: initial;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+.card-title, h5 {
+    font-style: initial;
+    font-size: 19px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+.card-text, p {
+    font-style: initial;
+    color: black;
+    text-align: justify;
+    font-weight: normal;
+}

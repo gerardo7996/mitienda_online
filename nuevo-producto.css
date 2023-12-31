@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(320deg,#039BE5,#448AFF,#6A1B9A);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h4 {
+    font-style: initial;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: left;
+    color: black;
+}
+
+hr {
+    border-color: darkblue;
+}
+
+.navbar-expand-lg {
+    background-color: #262626;
+}
+
+.navbar-brand, span {
+    color: #00E5FF;
+    font-weight: 600;
+    text-align: left;
+}
+
+.form-label {
+    font-style: initial;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: left;
+    color: black;
+}
+
+.input-group-text {
+    border-style: groove;
+    border-color: darkblue;
+    border-radius: 7.5px;
+    color: black;
+    font-style: initial;
+    width: 40px;
+}
+
+.form-control {
+    border-style: groove;
+    border-color: darkblue;
+    border-radius: 7.5px;
+    color: black;
+    width: 40px;
+    font-style: initial;
+}
+
+.bi-backspace {
+    margin-right: 7.5px;
+}
+
+.bi-share-fill {
+    margin-right: 7.5px;
+}
+
+.bi-upc {
+    color: black;
+}
+
+.bi-bag-plus {
+    color: black;
+}
+
+.bi-cash-coin {
+    color: black;
+}
+
+.bi-box-seam-fill {
+    color: black;
+}
+
+.bi-image {
+    color: black;
+}
+
+.bi-floppy-fill {
+    margin-right: 7.5px;
+}
+
+.bi-trash-fill {
+    margin-right: 7.5px;
+}
+
+.btn-outline-warning {
+    border-style: groove;
+    border-color: #FFD600;
+    border-radius: 7.5px;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFD600;
+    text-align: center;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+.btn-outline-warning:hover {
+    border-style: groove;
+    border-color: #FFD600;
+    border-radius: 7.5px; 
+    background: linear-gradient(320deg, #D50000, #E65100, #FFFF00);
+    color: black;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+.btn-outline-danger {
+    border-style: groove;
+    border-color: #FF5252;
+    border-radius: 7.5px;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FF5252;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+.btn-outline-danger:hover {
+    border-style: groove;
+    border-color: #D81B60;
+    border-radius: 7px;
+    background: linear-gradient(320deg, #FF80AB,#F50057,#880E4F);
+    color: #FFFFFF;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+.btn-outline-info {
+    border-style: groove;
+    border-color: #54B4D3;
+    border-radius: 7.5px;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: #54B4D3;
+    text-align: center;
+}
+
+.btn-outline-info:hover {
+    border-style: groove;
+    border-color: #54B4D3;
+    border-radius: 7.5px;
+    background: linear-gradient(320deg,#039BE5,#448AFF,#6A1B9A);
+    color: black;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+}
+
+.new-product-icon {
+    width: 205px;
+    margin-bottom: 25px;
+}

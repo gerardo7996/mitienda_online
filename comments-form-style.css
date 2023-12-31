@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(320deg,#039BE5,#448AFF,#6A1B9A);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h4 {
+    font-style: initial;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    color: black;
+}
+
+hr {
+    border-color: darkblue;
+}
+
+.navbar-expand-lg {
+    background-color: #262626;
+}
+
+.navbar-brand, span {
+    color: #00E5FF;
+    font-weight: 600;
+    text-align: left;
+}
+
+.form-label {
+    font-style: initial;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: left;
+    color: black;
+}
+
+.input-group-text {
+    border-style: groove;
+    border-color: darkblue;
+    border-radius: 7.5px;
+    color: black;
+    font-style: initial;
+    width: 40px;
+}
+
+.form-control {
+    border-style: groove;
+    border-color: darkblue;
+    border-radius: 7.5px;
+    color: black;
+    width: 40px;
+    font-style: initial;
+}
+
+.bi-backspace {
+    margin-right: 7.5px;
+}
+
+.bi-share-fill {
+    margin-right: 7.5px;
+}
+
+.bi-person-square {
+    color: black;
+}
+
+.bi-chat-left-text-fill {
+    color: black;
+}
+
+.bi-send-plus-fill {
+    margin-right: 7.5px;
+}
+
+.bi-trash-fill {
+    margin-right: 7.5px;
+}
+
+.btn-outline-success {
+    border-style: groove;
+    border-color: #329542;
+    border-radius: 7.5px;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: #329542;
+    text-align: center;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+.btn-outline-success:hover {
+    border-style: groove;
+    border-color: #329542;
+    border-radius: 7.5px;
+    background: linear-gradient(320deg, #00C853, #008D8C, #005346);
+    color: white;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+.btn-outline-warning {
+    border-style: groove;
+    border-color: #FFD600;
+    border-radius: 7.5px;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFD600;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+.btn-outline-warning:hover {
+    border-style: groove;
+    border-color: #FFD600;
+    border-radius: 7.5px; 
+    background: linear-gradient(320deg, #D50000, #E65100, #FFFF00);
+    color: black;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+.btn-outline-info {
+    border-style: groove;
+    border-color: #54B4D3;
+    border-radius: 7.5px;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    color: #54B4D3;
+    text-align: center;
+}
+
+.btn-outline-info:hover {
+    border-style: groove;
+    border-color: #54B4D3;
+    border-radius: 7.5px;
+    background: linear-gradient(320deg,#039BE5,#448AFF,#6A1B9A);
+    color: black;
+    font-style: initial;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+}
+
+.comments-icon {
+    width: 205px;
+    margin-bottom: 25px;
+}
